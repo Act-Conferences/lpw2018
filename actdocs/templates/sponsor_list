@@ -5,8 +5,8 @@
     </div>
 
 
-<!--
 <!-- Platinum -->
+<!--
 <div class="col-xs-12" style="margin-bottom: 1em;"><strong>Platinum:</strong></div>
 
 
@@ -16,7 +16,9 @@
         </a>
     </div>
 
+-->
 <!-- Gold -->
+<!--
 <div class="col-xs-12" style="margin-bottom: 1em;"><strong>Gold:</strong></div>
 
     <div class="col-xs-10 col-xs-offset-1 text-center;">
@@ -42,8 +44,9 @@
             <img src="[% make_uri_info('images/logos/scaled/adzuna.png') %]" border="0" alt="Adzuna" class="img-responsive" style="margin-bottom: 2em;">
         </a>
     </div>
-
+-->
 <!-- Silver -->
+<!--
 <div class="col-xs-12" style="margin-bottom: 1em;">
     <strong>Silver:</strong>
     <ul>
@@ -52,8 +55,9 @@
         <li><a href="http://www.booking.com/">Booking.com</a></li>
     </ul>
 </div>
-
+-->
 <!-- Others -->
+<!--
 <div class="col-xs-12" style="margin-bottom: 1em;">
     <strong>Bronze and Community:</strong>
     <p><small>
@@ -62,6 +66,5 @@
         <a href="[% make_uri_info('sponsors.html') %]">on our sponsors page</a>.
     </small></p>
 </div>
-
 -->
 </div>

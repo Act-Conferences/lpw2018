@@ -4,8 +4,12 @@
         <p><small><a href="[% make_uri_info('sponsors.html') %]">Read more about our sponsors</a></small></p>
     </div>
 
+    <div class="col-xs-10 col-xs-offset-1 text-center;">
+        <a href="https://perl6.org/">
+            <img src="[% make_uri_info('images/logos/scaled/perl6.png') %]" border="0" alt="The Perl 6 Community" class="img-responsive" style="margin-bottom: 2em;">
+        </a>
+    </div>
 
-<!-- Gold -->
 <!--
 <div class="col-xs-12" style="margin-bottom: 1em;"><strong>Gold:</strong></div>
 
@@ -38,27 +42,5 @@
             <img src="[% make_uri_info('images/logos/scaled/adzuna.png') %]" border="0" alt="Adzuna" class="img-responsive" style="margin-bottom: 2em;">
         </a>
     </div>
--->
-<!-- Silver -->
-<!--
-<div class="col-xs-12" style="margin-bottom: 1em;">
-    <strong>Silver:</strong>
-    <ul>
-        <li><a href="https://www.bytemark.co.uk">Bytemark</a></li>
-        <li><a href="http://opusvl.com/">OpusVL</a></li>
-        <li><a href="http://www.booking.com/">Booking.com</a></li>
-    </ul>
-</div>
--->
-<!-- Others -->
-<!--
-<div class="col-xs-12" style="margin-bottom: 1em;">
-    <strong>Bronze and Community:</strong>
-    <p><small>
-        A list of all our bronze and community sponsors as well as more information
-        about all of our valued sponsors is available
-        <a href="[% make_uri_info('sponsors.html') %]">on our sponsors page</a>.
-    </small></p>
-</div>
 -->
 </div>

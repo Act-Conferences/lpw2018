@@ -16,7 +16,6 @@
         </a>
     </div>
 
-<!--
 <div class="col-xs-12" style="margin-bottom: 1em;"><strong>Gold:</strong></div>
 
     <div class="col-xs-12 text-center">
@@ -25,11 +24,13 @@
         </a>
     </div>
 
+<!--
     <div class="col-xs-10 col-xs-offset-1 text-center;">
         <a href="https://perl.careers/jobs/">
             <img src="[% make_uri_info('images/logos/scaled/perlcareers.png') %]" border="0" alt="Perl Jobs by Perl Careers" class="img-responsive" style="margin-bottom: 2em;">
         </a>
     </div>
+-->
 
     <div class="col-xs-10 col-xs-offset-1 text-center;">
         <a href="https://www.cv-library.co.uk/">
@@ -37,6 +38,7 @@
         </a>
     </div>
 
+<!--
     <div class="col-xs-10 col-xs-offset-1 text-center;">
         <a href="https://www.wcn.uk/">
             <img src="[% make_uri_info('images/logos/scaled/wcn.png') %]" border="0" alt="WCN" class="img-responsive" style="margin-bottom: 2em;">
